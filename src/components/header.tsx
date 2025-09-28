@@ -15,12 +15,7 @@ export function Header({
 			)}
 		>
 			<h1 className="flex items-center gap-2 mx-4">
-				<Link to="/">
-					<CloudflareLogo
-						className="h-4 text-bg-bright-dim"
-						aria-label="Cloudflare v1"
-					/>
-				</Link>
+				Coding Vibes
 			</h1>
 			<div className="flex-1"></div>
 			<div className="flex items-center gap-4">
